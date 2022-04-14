@@ -1,0 +1,10 @@
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\bin\Debug\Experimentos.exe.config
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\bin\Debug\Experimentos.exe
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\bin\Debug\Experimentos.pdb
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\obj\Debug\Experimentos.csproj.AssemblyReference.cache
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\obj\Debug\Experimentos.Form1.resources
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\obj\Debug\Experimentos.Properties.Resources.resources
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\obj\Debug\Experimentos.csproj.GenerateResource.cache
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\obj\Debug\Experimentos.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\obj\Debug\Experimentos.exe
+C:\Users\Fabiano\Desktop\Curso C#\Experimentos\obj\Debug\Experimentos.pdb

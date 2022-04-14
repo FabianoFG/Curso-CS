@@ -1,0 +1,10 @@
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\bin\Debug\MeuEditorDeTexto.exe.config
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\bin\Debug\MeuEditorDeTexto.exe
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\bin\Debug\MeuEditorDeTexto.pdb
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\obj\Debug\MeuEditorDeTexto.csproj.AssemblyReference.cache
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\obj\Debug\MeuEditorDeTexto.Form1.resources
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\obj\Debug\MeuEditorDeTexto.Properties.Resources.resources
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\obj\Debug\MeuEditorDeTexto.csproj.GenerateResource.cache
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\obj\Debug\MeuEditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\obj\Debug\MeuEditorDeTexto.exe
+C:\Users\Fabiano\Desktop\Curso C#\MeuEditorDeTexto\obj\Debug\MeuEditorDeTexto.pdb

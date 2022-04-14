@@ -1,0 +1,10 @@
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\bin\Debug\aula60.exe.config
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\bin\Debug\aula60.exe
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\bin\Debug\aula60.pdb
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\obj\Debug\aula60.csproj.AssemblyReference.cache
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\obj\Debug\aula60.Properties.Resources.resources
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\obj\Debug\aula60.csproj.GenerateResource.cache
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\obj\Debug\aula60.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\obj\Debug\aula60.exe
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\obj\Debug\aula60.pdb
+C:\Users\Fabiano\Desktop\Curso C#\51a60\Aula60\aula60\obj\Debug\aula60.F_Principal.resources
